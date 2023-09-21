@@ -26,3 +26,4 @@ I'm a machine learning and data science enthusiast
 
 ![Logo](https://github-readme-stats.vercel.app/api?username=AbhishekDATA&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 [<img src="https://github.com/AbhisheDATA/AbhisheDATA/assets/89311912/034363d9-4004-4a56-9302-7082057e1400" width="300" height="200">]
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=AbhisheDATA&theme=discord)
