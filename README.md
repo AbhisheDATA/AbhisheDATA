@@ -3,8 +3,7 @@
 
 
 ## 🚀 About me
-I'm a machine learning and data science enthusiast
-
+I'm a passionate data enthusiast and software engineer with a deep interest in artificial intelligence and machine learning. My journey in the world of data science has been an exciting exploration of patterns, insights, and solutions in data and predict the future outcomes.
 
 ## 🔗links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-kumar-6633b2214/)
