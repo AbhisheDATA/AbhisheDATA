@@ -13,13 +13,12 @@ I'm a passionate data enthusiast and software engineer with a deep interest in a
 ## 🛠 Skills
 
 
-1) python
-2) Ai and machine learning
-3) c
-4) Data science 
-5) Mysql
-6) Microsoft sql server
-7) core java
+1) language-python,c#,c,core java
+2) web framework-Flask,FastApi,React
+3) Ai and machine learning
+4) Data science
+5) Database-Mysql,Microsoft sql server
+5).Net  
 
 
 
