@@ -23,6 +23,6 @@ I'm a passionate data enthusiast and software engineer with a deep interest in a
 
 
 ![Logo](https://github-readme-stats.vercel.app/api?username=AbhishekDATA&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
-[<img src="https://github.com/AbhisheDATA/AbhisheDATA/assets/89311912/034363d9-4004-4a56-9302-7082057e1400" width="300" height="200">]
+![Demo](https://dribbble.com/shots/3952536-working-man/attachments/10114345?mode=media)
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=AbhisheDATA&theme=discord)
 ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhisheDATA&layout=compact&theme=blue-green)
