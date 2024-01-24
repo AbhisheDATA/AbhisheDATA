@@ -29,3 +29,12 @@ I'm a passionate data enthusiast and software engineer with a deep interest in a
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=AbhisheDATA&theme=discord)
 ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhisheDATA&layout=compact&theme=blue-green)
 
+<a href="https://openai.com" target="_blank">
+    <img src="https://your-openai-logo-url.png" alt="openai" width="40" height="40"/>
+  </a>
+  <a href="https://langchain.org" target="_blank">
+    <img src="https://your-langchain-logo-url.png" alt="langchain" width="40" height="40"/>
+  </a>
+  <a href="https://huggingface.co" target="_blank">
+    <img src="https://your-huggingface-logo-url.png" alt="huggingface" width="40" height="40"/>
+  </a>
