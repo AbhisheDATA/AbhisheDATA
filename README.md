@@ -17,7 +17,7 @@ I'm a passionate data enthusiast and software engineer with a deep interest in a
 2) web framework-Flask,FastApi,React
 3) Ai and machine learning
 4) Data science
-5) Database-Mysql,Microsoft sql server
+5) Database-Mysql,Microsoft sql server,MongoDB,Neo4j,Pinecone
 5) .Net  
 
 <h3 align="left">Languages and Tools:</h3>
