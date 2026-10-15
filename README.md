@@ -21,6 +21,7 @@ I'm a passionate data enthusiast and software engineer with a deep interest in a
 
 - **Languages** — Python, C#, C, Core Java
 - **Web frameworks** — Flask, FastAPI, React
+- **Cloud & platforms** — Microsoft Azure, Google Cloud (GCP), SharePoint (SPFx webparts with React)
 - **AI and Machine Learning**
 - **Data Science**
 - **Databases** — MySQL, Microsoft SQL Server, MongoDB, Neo4j, Pinecone
@@ -47,6 +48,9 @@ I'm a passionate data enthusiast and software engineer with a deep interest in a
   <a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></a>
   <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a>
   <a href="https://www.tensorflow.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
+  <a href="https://azure.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/></a>
+  <a href="https://cloud.google.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="google cloud" width="40" height="40"/></a>
+  <a href="https://react.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/></a>
 </p>
 
 ## 📊 GitHub stats
